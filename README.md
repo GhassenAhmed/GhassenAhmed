@@ -17,3 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassenahmed&show_icons=true&locale=en" alt="ghassenahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghassenahmed&" alt="ghassenahmed" /></p>
+ <details>
+  <summary>:zap: Most Used Languages</summary>
+   <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhassenAhmed&theme=tokyonight" />
+</details>
