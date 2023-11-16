@@ -1,9 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ghassen+Ahmed!;" />
 </h1>
+<h3 align="center">A passionate software developer from Tunis TN</h3>
 <p align="center">
   <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghassenahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ghassenahmed" /> </p>
+
 
 - 📫 How to reach me **ghassenahmed74@gmail.com**
 
