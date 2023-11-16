@@ -20,9 +20,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:ghassenahmed74@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+ <h3>ghassenahmed74@gmail.com</h3>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"](https://www.linkedin.com/in/ghassen-ahmed-563465259/) target="_blank" />
   </a>
